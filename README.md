@@ -16,6 +16,7 @@ Pingvin Share is self-hosted file sharing platform and an alternative for WeTran
 - Secure shares with visitor limits and passwords
 - Email recipients
 - Integration with ClamAV for security scans
+- Custom branding options: app name, upload custom logo, toggle display of the homepage.
 
 ## 🐧 Get to know Pingvin Share
 
